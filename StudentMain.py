@@ -1,10 +1,8 @@
 #!/usr/bin/python
 
-""" Complete the code in ClassifyNB.py with the sklearn
-    Naive Bayes classifier to classify the terrain data.
-
-    The objective of this exercise is to recreate the decision
-    boundary found in the lesson video, and make a plot that
+"""
+    The objective of this is to create the decision
+    boundary  and make a plot that
     visually shows the decision boundary """
 
 
